@@ -11,8 +11,8 @@ A lightweight Linux desktop controller for the [Audio Source Android app](https:
 
 ## Run
 
-1. Extract this archive.
-2. Run `./run.sh`, or open `project.godot` in Godot 4 and press **Run**.
+1. Download release executable for your system.
+2. Run it.
 3. Connect the phone over USB, enable USB debugging, unlock it, and accept its debugging prompt.
 4. Press **Detect**, then **Start microphone**. If only one authorized Android device is connected, it can be selected automatically.
 5. The virtual microphone becomes the desktop's default input. Adjust its volume in the app.
