@@ -1,4 +1,4 @@
-# Audio Source — Godot for Linux
+# Audio Source GUI — In Godot for Linux
 
 A lightweight Linux desktop controller for the [Audio Source Android app](https://github.com/gdzx/audiosource). It turns the phone's microphone stream into a Linux virtual input source and makes it the default input while active.
 
