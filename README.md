@@ -3,7 +3,7 @@
 A lightweight Linux desktop controller for the [Audio Source Android app](https://github.com/gdzx/audiosource). It turns the phone's microphone stream into a Linux virtual input source and makes it the default input while active.
 
 ## Requirements
-
+-  USB debugging turned on android device
 - `adb` (Android Debug Bridge)
 - `pactl` and a running PulseAudio-compatible server (PulseAudio or PipeWire-Pulse)
 - `bash` and `cat` (normally available on Linux)
