@@ -22,6 +22,4 @@ The GitHub button opens the original Audio Source project page. This project is 
 
 ## Notes
 
-- Apps explicitly configured to use a particular microphone may need to be changed to use the system default input.
 - If Android permissions cannot be granted through ADB, grant microphone and notification permissions to Audio Source on the phone, then try again.
-- The app writes its small audio-forwarding script to its Godot user-data directory at runtime. It does not include platform executables.
