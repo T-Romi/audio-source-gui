@@ -4,7 +4,7 @@ A lightweight Linux desktop controller for the [Audio Source Android app](https:
 
 ## Requirements
 -  `USB` debugging turned on android device
-- `adb` (Android Debug Bridge)
+- `adb` (Android Debug Bridge) installed in PATH
 - `pactl` and a running PulseAudio-compatible server (PulseAudio or PipeWire-Pulse)
 - `bash` and `cat` (normally available on Linux)
 - The Audio Source Android app installed on the phone
