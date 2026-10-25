@@ -19,7 +19,3 @@ A lightweight Linux desktop controller for the [Audio Source Android app](https:
 6. Press **Stop** to stop recording, remove the ADB forward, unload the virtual source, and restore the previous default input when it has not been changed manually.
 
 The GitHub button opens the original Audio Source project page. This project is the Linux desktop controller; install the Android app separately.
-
-## Notes
-
-- If Android permissions cannot be granted through ADB, grant microphone and notification permissions to Audio Source on the phone, then try again.
